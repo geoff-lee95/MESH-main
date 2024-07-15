@@ -18,3 +18,4 @@
 // Error handling
 // Documentation
 // Caching system
+// WebSocket support
