@@ -19,3 +19,4 @@
 // Documentation
 // Caching system
 // WebSocket support
+// Mobile optimization
