@@ -21,3 +21,4 @@
 // WebSocket support
 // Mobile optimization
 // Analytics
+// Bug fixes
