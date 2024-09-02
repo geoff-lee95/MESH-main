@@ -25,3 +25,4 @@
 // Load balancing
 // Backup system
 // Notification system
+// Encryption
