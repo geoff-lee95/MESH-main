@@ -28,3 +28,4 @@
 // Encryption
 // API versioning
 // Dashboard redesign
+// Plugin system
