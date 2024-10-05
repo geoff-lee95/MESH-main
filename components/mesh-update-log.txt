@@ -30,3 +30,4 @@
 // Dashboard redesign
 // Plugin system
 // Logging system
+// Rate limiting
