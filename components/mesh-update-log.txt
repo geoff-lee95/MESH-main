@@ -31,3 +31,4 @@
 // Plugin system
 // Logging system
 // Rate limiting
+// Docker support
