@@ -32,3 +32,4 @@
 // Logging system
 // Rate limiting
 // Docker support
+// Kubernetes integration
