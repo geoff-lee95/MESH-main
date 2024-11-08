@@ -33,3 +33,4 @@
 // Rate limiting
 // Docker support
 // Kubernetes integration
+// Monitoring dashboard
