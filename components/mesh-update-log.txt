@@ -34,3 +34,4 @@
 // Docker support
 // Kubernetes integration
 // Monitoring dashboard
+// Multi-tenant support
