@@ -35,3 +35,4 @@
 // Kubernetes integration
 // Monitoring dashboard
 // Multi-tenant support
+// GraphQL API
