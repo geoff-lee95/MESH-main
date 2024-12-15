@@ -6,3 +6,4 @@
 // Performance metrics
 // Sync fixes
 // Topology display
+// Health checks
