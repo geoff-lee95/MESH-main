@@ -36,3 +36,4 @@
 // Monitoring dashboard
 // Multi-tenant support
 // GraphQL API
+// AI integration
