@@ -39,3 +39,4 @@
 // AI integration
 // Performance tuning
 // Compliance features
+// Edge computing
