@@ -9,3 +9,4 @@
 // Health checks
 // Failover mechanism
 // Routing algorithms
+// Configuration validation
