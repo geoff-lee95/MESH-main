@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 240 10% 3.9%;
+    --foreground: 0 0% 98%;
+
+    --card: 240 10% 3.9%;
+    --card-foreground: 0 0% 98%;
+
+    --popover: 240 10% 3.9%;
+    --popover-foreground: 0 0% 98%;
+
+    /* Changed blue to gray/black */
+    --primary: 0 0% 20%;
+    --primary-foreground: 0 0% 98%;
+
+    --secondary: 240 3.7% 15.9%;
+    --secondary-foreground: 0 0% 98%;
+
+    --muted: 240 3.7% 15.9%;
+    --muted-foreground: 240 5% 64.9%;
+
+    /* Changed blue accent to gray */
+    --accent: 0 0% 25%;
+    --accent-foreground: 0 0% 98%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 240 3.7% 15.9%;
+    --input: 240 3.7% 15.9%;
+    --ring: 0 0% 30%;
+
+    --radius: 0.5rem;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+  h3 {
+    @apply font-light;
+  }
+}
+
+/* Updated gradient text effect to use black/gray instead of blue */
+.gradient-text {
+  @apply bg-clip-text text-transparent bg-gradient-to-r from-gray-700 to-gray-400;
+}
+
+/* Card highlight effect updated */
+.card-highlight {
+  @apply border border-transparent hover:border-gray-500/50 transition-all duration-300;
+}
+
+/* Stats counter styling updated */
+.stats-counter {
+  @apply text-3xl font-light text-gray-300;
+}
