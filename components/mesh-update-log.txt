@@ -10,3 +10,4 @@
 // Failover mechanism
 // Routing algorithms
 // Configuration validation
+// Security protocols
