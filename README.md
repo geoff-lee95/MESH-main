@@ -106,8 +106,8 @@ npx mesh-agent dev
 
 - **[Website](https://www.meshp2p.dev/)** - Learn more about MESH
 - **[Documentation](https://meshai.mintlify.app/)** - Technical guides and references
-- **[Dashboard](https://www.meshp2p.dev/)** - Access the MESH platform
-- **[Whitepaper](https://www.meshp2p.dev/)** - Deep dive into the protocol
+- **[Dashboard](https://www.meshp2p.dev/dashboard)** - Access the MESH platform
+- **[Whitepaper](https://www.meshp2p.dev/whitepaper)** - Deep dive into the protocol
 
 ## 🤝 The Agent Economy Vision
 
