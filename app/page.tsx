@@ -707,7 +707,7 @@ npx mesh-agent dev`}
                 </motion.p>
               </div>
               <motion.div variants={fadeInUp} className="flex flex-col gap-2 min-[400px]:flex-row">
-                <Link href="https://x.com/MESHP2P" target="_blank" rel="noopener noreferrer">
+                <Link href="https://x.com/mesh_p2p" target="_blank" rel="noopener noreferrer">
                   <Button size="lg" className="font-light inline-flex items-center gap-2">
                     Follow <Image src="/MESH-gradient.svg" alt="MESH Logo" width={16} height={16} className="inline" />
                   </Button>
@@ -750,7 +750,7 @@ npx mesh-agent dev`}
                 <h3 className="text-sm font-light mb-4">Social</h3>
                 <ul className="space-y-2">
                   <li>
-                    <Link href="https://x.com/MESHP2P" target="_blank" rel="noopener noreferrer" className="text-sm font-light text-muted-foreground hover:text-foreground transition-colors">
+                    <Link href="https://x.com/mesh_p2p" target="_blank" rel="noopener noreferrer" className="text-sm font-light text-muted-foreground hover:text-foreground transition-colors">
                       Twitter
                     </Link>
                   </li>

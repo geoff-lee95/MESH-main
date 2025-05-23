@@ -550,7 +550,7 @@ export default function SettingsPage() {
                             value={profileData.twitter}
                             onChange={(e) => setProfileData({...profileData, twitter: e.target.value})}
                           />
-                          <p className="text-xs text-muted-foreground">twitter.com/<span className="font-medium">username</span></p>
+                          <p className="text-xs text-muted-foreground">x.com/<span className="font-medium">mesh_p2p</span></p>
                         </div>
                       </div>
                     </CardContent>

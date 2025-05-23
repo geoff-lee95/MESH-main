@@ -369,8 +369,8 @@ export default async function UserProfilePage({ params }: { params: { id: string
                     <>
                       <div className="text-muted-foreground">Twitter</div>
                       <div>
-                        <Link href={`https://twitter.com/${profileData.twitter}`} target="_blank" className="hover:underline">
-                          @{profileData.twitter}
+                        <Link href={`https://x.com/mesh_p2p`} target="_blank" className="hover:underline">
+                          @mesh_p2p
                         </Link>
                       </div>
                     </>
